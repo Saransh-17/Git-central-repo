@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int my_strlen(char *s)
+float my_strlen(char *s)
 {
-   char *p = s;
+   int =*p = s;
 
    while (*p)
       ++p;
